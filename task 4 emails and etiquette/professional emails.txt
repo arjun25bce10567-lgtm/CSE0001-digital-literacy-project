@@ -1,0 +1,43 @@
+Here are two professional emails tailored for a student, focusing on clarity, politeness, and proper structure.
+
+Email 1: Requesting an Extension
+Subject: Extension Request: [Assignment Name] – [Your Full Name] – [Roll Number/Section]
+
+Dear Professor [Professor's Last Name],
+
+I hope this email finds you well.
+
+I am writing to respectfully request a brief extension on the upcoming assignment, [Assignment Name], which is currently due on [Original Due Date].
+
+Unfortunately, [mention a brief, honest reason, e.g., I have been dealing with a sudden health issue / I am managing a heavy load of concurrent mid-term projects], and I want to ensure that the work I submit meets the high standards of your course.
+
+If possible, would it be acceptable to submit the assignment by [Proposed New Date]? I am happy to provide any necessary documentation or discuss a plan to stay on track with future deadlines.
+
+Thank you for your time and for considering my request.
+
+Best regards,
+
+[Your Name]
+[Your Degree/Major]
+[Your Phone Number]
+
+Email 2: Expressing Interest in an Internship
+Subject: Internship Inquiry: Summer 2026 – [Your Name] – [Your University/Major]
+
+Dear [Coordinator's Name or "Hiring Manager"],
+
+I hope you are having a productive week.
+
+My name is [Your Name], and I am currently a student at [Your University] pursuing a degree in [Your Major]. I have been following [Company Name]’s work in [Specific Field, e.g., Web Development/Data Analytics], and I am highly impressed by your recent projects, particularly [mention a specific project or company achievement].
+
+I am writing to express my strong interest in a summer internship opportunity with your team. Through my coursework and independent practice on platforms like CodeChef and GitHub, I have developed a solid foundation in [mention 1-2 skills, e.g., Python and Problem Solving]. I am eager to apply these skills in a professional environment and contribute to the innovative work being done at [Company Name].
+
+I have attached my resume for your review and would welcome the opportunity to discuss how my background aligns with your team's goals.
+
+Thank you for your time and consideration. I look forward to hearing from you.
+
+Sincerely,
+
+[Your Name]
+[Link to your LinkedIn or GitHub Portfolio]
+[Your Phone Number]
